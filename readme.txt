@@ -1,0 +1,2 @@
+To run the game, navigate to the "jar" folder and run the csc413-tankgame-turk-webdev.jar file.
+If this does not work, navigate to the "jar" folder in the command prompt line, and use "java -jar <filename>" to run the game.

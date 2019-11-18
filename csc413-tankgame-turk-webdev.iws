@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="csc413-tankgame-turk-webdev" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6454a412-2435-4107-9cb2-318738187b5f" name="Default Changelist" comment="Final commit">
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Background.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Bouncing.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Explosion_large.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Explosion_large.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Explosion_small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Explosion_small.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Music.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Music.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Pickup.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Rocket.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Shell.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Shell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Shield1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Shield2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Tank1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Tank2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Title.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Wall1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Wall2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/Weapon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/ammo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/breakable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/broken.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/health.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/health.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/life.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/tank1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/tank2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Resources/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/csc413-tankgame-turk-webdev.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csc413-tankgame-turk-webdev.jar" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SlPbWxXobRAPg6qA2lpfYXZQJp" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29770115" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="csc413-tankgame-turk-webdev" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6454a412-2435-4107-9cb2-318738187b5f" name="Default Changelist" comment="" />
+      <created>1572135280924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572135280924</updated>
+      <workItem from="1572135282152" duration="1715000" />
+      <workItem from="1572561363215" duration="293000" />
+      <workItem from="1572985361378" duration="20405000" />
+      <workItem from="1573436305985" duration="5863000" />
+      <workItem from="1573512317825" duration="58777000" />
+    </task>
+    <task id="LOCAL-00001" summary="WIP: Background rendered, tanks move">
+      <created>1573522450134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573522450135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Progress: Game functions all functional, need minimap &amp; splitscreen">
+      <created>1573709505974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573709505974</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final commit">
+      <created>1573795149585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573795149585</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final commit of output jar">
+      <created>1573795838264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573795838265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final commit">
+      <created>1573796130860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573796130860</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commented out the FPS console print because it was annoying">
+      <created>1573796593692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573796593692</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated jar no longer prints FPS to console">
+      <created>1573796642105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573796642105</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final commit">
+      <created>1573796749073</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573796749073</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final commit">
+      <created>1573796792071</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573796792071</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final commit">
+      <created>1573796961161</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573796961161</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Final commit">
+      <created>1573799504238</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573799504238</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Final commit">
+      <created>1573799662628</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1573799662628</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WIP: Background rendered, tanks move" />
+    <MESSAGE value="Progress: Game functions all functional, need minimap &amp; splitscreen" />
+    <MESSAGE value="Final commit of output jar" />
+    <MESSAGE value="Commented out the FPS console print because it was annoying" />
+    <MESSAGE value="Updated jar no longer prints FPS to console" />
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
+  </component>
+</project>
